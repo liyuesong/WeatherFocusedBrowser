@@ -1,7 +1,7 @@
 # WeatherFocusedBrowser
 
 ## Learning Intermediate React with Redux: Middleware.
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Implement a web application to show weather forecast of next few days in cities based on user's search using line charts.
 
 ### Getting Started
 
